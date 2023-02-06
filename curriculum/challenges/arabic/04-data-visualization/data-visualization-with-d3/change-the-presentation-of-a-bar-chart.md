@@ -1,6 +1,6 @@
 ---
 id: 587d7fa8367417b2b2512bca
-title: تغيير مخطط بياني شريطي (Bar Chart)
+title: تغيير التقديم لمخطط الأعمدة (Bar Chart)
 challengeType: 6
 forumTopicId: 301481
 dashedName: change-the-presentation-of-a-bar-chart
@@ -8,7 +8,7 @@ dashedName: change-the-presentation-of-a-bar-chart
 
 # --description--
 
-وأنشأ التحدي السابق مخطط بياني شريطي (bar chart)، ولكن هناك بعض التغييرات في التنسيق الذي يمكن أن تحسن:
+وأنشأ التحدي السابق مخطط أعمدة (bar chart)، ولكن هناك بعض التغييرات في التنسيق الذي يمكن أن تحسنه:
 
 1) إضافة مساحة بين كل شريط لفصله بصرياً، عن طريق إضافة هامش (margin) إلى CSS لفئة تسمى `bar`
 
